@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d005c96b9a0a4304e91c30545353f7cb, type: 3}
+  m_Name: WalkAway
+  m_EditorClassIdentifier: 
+  musicId: 8
+  musicName: WalkAway
+  volume: 0.7
+  audioClip: {fileID: 8300000, guid: 484eb5fe12e67744c9b8bb54b3506e12, type: 3}
+  music:
+  - cource: 0
+    intro: {fileID: 8300000, guid: 3c3be236167a23241b04a4cd6c32a291, type: 3}
+  - cource: 1
+    intro: {fileID: 8300000, guid: 3c3be236167a23241b04a4cd6c32a291, type: 3}
+  - cource: 2
+    intro: {fileID: 8300000, guid: 3c3be236167a23241b04a4cd6c32a291, type: 3}
+  - cource: 3
+    intro: {fileID: 8300000, guid: a557a97a5979f84448c128ae8b8d3df9, type: 3}
+  - cource: 4
+    intro: {fileID: 8300000, guid: 3c3be236167a23241b04a4cd6c32a291, type: 3}
+  composer: Nakit
+  originalMusicName: "\u5EC3\u7344\u30E9\u30E9\u30D0\u30A4"

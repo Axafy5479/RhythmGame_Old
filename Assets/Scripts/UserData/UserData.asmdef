@@ -1,0 +1,17 @@
+{
+    "name": "UserData",
+    "rootNamespace": "",
+    "references": [
+        "GUID:10099265a2585904b8cc158c4b7ad425",
+        "GUID:7b1a875f1379b734ea84631f4359c9c8"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

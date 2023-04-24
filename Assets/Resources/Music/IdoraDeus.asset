@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d005c96b9a0a4304e91c30545353f7cb, type: 3}
+  m_Name: IdoraDeus
+  m_EditorClassIdentifier: 
+  musicId: 6
+  musicName: Idola Deus
+  volume: 0.7
+  audioClip: {fileID: 8300000, guid: 7ba46a4421d91d849a50131628e9d4e7, type: 3}
+  music:
+  - cource: 0
+    intro: {fileID: 8300000, guid: d7401442ce4098b4a9eb780ea4118618, type: 3}
+  - cource: 1
+    intro: {fileID: 8300000, guid: d7401442ce4098b4a9eb780ea4118618, type: 3}
+  - cource: 2
+    intro: {fileID: 8300000, guid: d7401442ce4098b4a9eb780ea4118618, type: 3}
+  - cource: 3
+    intro: {fileID: 8300000, guid: 1e50683a560a5924d83f83f18c6c10a0, type: 3}
+  - cource: 4
+    intro: {fileID: 8300000, guid: d7401442ce4098b4a9eb780ea4118618, type: 3}
+  composer: maritumix
+  originalMusicName: "\u5076\u50CF\u306B\u4E16\u754C\u3092\u59D4\u306D\u3066\u3000\uFF5E
+    Idoratrize World"

@@ -1,0 +1,16 @@
+{
+    "name": "ErrorPanel",
+    "rootNamespace": "",
+    "references": [
+        "GUID:557c97ebd35f0c0438530377bace517f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

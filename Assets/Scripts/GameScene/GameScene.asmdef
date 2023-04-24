@@ -1,0 +1,22 @@
+{
+    "name": "GameScene",
+    "rootNamespace": "",
+    "references": [
+        "GUID:10099265a2585904b8cc158c4b7ad425",
+        "GUID:74d1eb4e5a05b154a9d0c2b9f2e28e05",
+        "GUID:d3310490a06397c48abc837966193db4",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:73c587acc53d6f1439d1cf779acea2e5",
+        "GUID:560b04d1a97f54a4e82edc0cbbb69285",
+        "GUID:6c968c7a07c0d484ebe1a9523c7a3bb5"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

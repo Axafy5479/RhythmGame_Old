@@ -1,0 +1,20 @@
+{
+    "name": "ResultScene",
+    "rootNamespace": "",
+    "references": [
+        "GUID:d3310490a06397c48abc837966193db4",
+        "GUID:73c587acc53d6f1439d1cf779acea2e5",
+        "GUID:10099265a2585904b8cc158c4b7ad425",
+        "GUID:557c97ebd35f0c0438530377bace517f",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

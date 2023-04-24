@@ -1,0 +1,18 @@
+{
+    "name": "EditorScriptForSimpleScroll",
+    "rootNamespace": "",
+    "references": [
+        "GUID:5f1cce68f076f524faeb07e279351840"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

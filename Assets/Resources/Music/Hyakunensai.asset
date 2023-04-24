@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d005c96b9a0a4304e91c30545353f7cb, type: 3}
+  m_Name: Hyakunensai
+  m_EditorClassIdentifier: 
+  musicId: 2
+  musicName: "\u3010 \u548C\u30ED\u30C3\u30AF \u3011\u9B54\u6CD5\u5C11\u5973\u9054\u306E\u767E\u5E74\u796D"
+  volume: 1
+  audioClip: {fileID: 8300000, guid: 07db77159ca00374d80384e569a044ab, type: 3}
+  music:
+  - cource: 0
+    intro: {fileID: 8300000, guid: 39594c8524488a34fa4dea4e0f8c5f53, type: 3}
+  - cource: 1
+    intro: {fileID: 8300000, guid: 39594c8524488a34fa4dea4e0f8c5f53, type: 3}
+  - cource: 2
+    intro: {fileID: 8300000, guid: 39594c8524488a34fa4dea4e0f8c5f53, type: 3}
+  - cource: 3
+    intro: {fileID: 8300000, guid: ccd31a572a709c148a23fc3944d15ac7, type: 3}
+  - cource: 4
+    intro: {fileID: 8300000, guid: 39594c8524488a34fa4dea4e0f8c5f53, type: 3}
+  composer: skyluigi
+  originalMusicName: "\u9B54\u6CD5\u5C11\u5973\u9054\u306E\u767E\u5E74\u796D"

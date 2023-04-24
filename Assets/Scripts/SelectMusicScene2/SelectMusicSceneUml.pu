@@ -1,0 +1,38 @@
+@startuml
+    package Transition{
+        interface IInitializer
+        {
+            +IEnumerator Initialize()
+        }
+        class TransitionAssist
+
+        TransitionAssist -d-> IInitializer
+    }
+
+    package SelectMusicScene{
+        class Initializer
+        class MusicListController
+        class UserDataShower
+
+        class MusicItem
+        note left : スクロールさせる楽曲の項目
+
+        class CourseSelector 
+        {
+            ~ReactiveProperty Course
+        }
+
+
+        
+        Initializer->MusicListController
+        Initializer->CourseSelector
+        Initializer-u-|>IInitializer
+        MusicListController->UserDataShower
+        MusicListController -d->CourseSelector : 難易度の変更を監視
+        MusicListController-d->MusicItem
+    }
+
+
+
+ 
+@enduml

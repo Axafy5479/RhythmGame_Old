@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d005c96b9a0a4304e91c30545353f7cb, type: 3}
+  m_Name: HenshokuMattariSpark
+  m_EditorClassIdentifier: 
+  musicId: 1
+  musicName: "\u5909\u8272\u307E\u3063\u305F\u308A\u30B9\u30D1\u30A1\u30FC\u30AF"
+  volume: 0.8
+  audioClip: {fileID: 8300000, guid: 218718f389e59d043b2cf78bee6bdb8d, type: 3}
+  music:
+  - cource: 0
+    intro: {fileID: 8300000, guid: 06396cc6701155449bec519f8282f0bb, type: 3}
+  - cource: 1
+    intro: {fileID: 8300000, guid: 06396cc6701155449bec519f8282f0bb, type: 3}
+  - cource: 2
+    intro: {fileID: 8300000, guid: 06396cc6701155449bec519f8282f0bb, type: 3}
+  - cource: 3
+    intro: {fileID: 8300000, guid: 018462fc315ea7147b31b8335aa8310b, type: 3}
+  - cource: 4
+    intro: {fileID: 8300000, guid: 06396cc6701155449bec519f8282f0bb, type: 3}
+  composer: 
+  originalMusicName: 
